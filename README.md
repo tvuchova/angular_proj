@@ -1,3 +1,3 @@
 # angular_prj
 
--angulat booking - Angular (old version) project
+Project "angular booking" - Angular (old version) example
