@@ -1,6 +1,5 @@
 # angular_prj
 
-<b>Project "angular_booking" </b> Angular (old version) example
 
 <b>Project portal-app</b>
 
