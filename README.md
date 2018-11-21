@@ -1,8 +1,8 @@
 # angular_prj
 
-# Project "angular booking" - Angular (old version) example
+<p>Project "angular booking" </p>- Angular (old version) example
 
-# Project portal_app
+<p>Project portal-app</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
