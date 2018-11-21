@@ -1,2 +1,3 @@
 # angular_prj
-Angular old version project
+
+Project "angular booking" - Angular (old version) example
